@@ -1,4 +1,5 @@
 class Transfer
+  
   attr_reader :sender, :receiver, :amount
   attr_writer
   attr_accessor :status
